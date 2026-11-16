@@ -1,0 +1,34 @@
+{
+  "name": "@louis24/ai-directory-index",
+  "version": "1.0.0",
+  "description": "A browser-verified audit of 235 AI and startup directories, with the outcome of 2700 submission attempts.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "data/ai-directories.json",
+    "README.md"
+  ],
+  "keywords": [
+    "seo",
+    "directories",
+    "dataset",
+    "startup-directories",
+    "ai-tools",
+    "backlinks"
+  ],
+  "homepage": "https://neonstack.net/reviews/ai-directory-submission-study/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louis24/ai-directory-index.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Louis24/ai-directory-index/issues"
+  },
+  "author": "Louis Li",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
